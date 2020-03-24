@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+button.cell {
+  width: min(14vh, 9.5vw);
+  height: min(14vh, 9.5vw);
+  display: inline-block;
+  background-size: 100%;
+  background-color: white;
+}
+
+.red-1 {
+  background-image: url('./assets/red-1.png');
+}
+.red-2 {
+  background-image: url('./assets/red-2.png');
+}
+.red-3 {
+  background-image: url('./assets/red-3.png');
+}
+.red-4 {
+  background-image: url('./assets/red-4.png');
+}
+.red-5 {
+  background-image: url('./assets/red-5.png');
+}
+.red-6 {
+  background-image: url('./assets/red-6.png');
+}
+.red-7 {
+  background-image: url('./assets/red-7.png');
+}
+.red-8 {
+  background-image: url('./assets/red-8.png');
+}
+.red-9 {
+  background-image: url('./assets/red-9.png');
+}
+
+.blue-1 {
+  background-image: url('./assets/blue-1.png');
+}
+.blue-2 {
+  background-image: url('./assets/blue-2.png');
+}
+.blue-3 {
+  background-image: url('./assets/blue-3.png');
+}
+.blue-4 {
+  background-image: url('./assets/blue-4.png');
+}
+.blue-5 {
+  background-image: url('./assets/blue-5.png');
+}
+.blue-6 {
+  background-image: url('./assets/blue-6.png');
+}
+.red-7 {
+  background-image: url('./assets/blue-7.png');
+}
+.blue-8 {
+  background-image: url('./assets/blue-8.png');
+}
+.blue-9 {
+  background-image: url('./assets/blue-9.png');
+}
