@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Atoms-React/static/css/main.b0ac7a66.chunk.css",
+    "main.js": "/Atoms-React/static/js/main.56ee3ae6.chunk.js",
+    "main.js.map": "/Atoms-React/static/js/main.56ee3ae6.chunk.js.map",
+    "runtime-main.js": "/Atoms-React/static/js/runtime-main.12874a53.js",
+    "runtime-main.js.map": "/Atoms-React/static/js/runtime-main.12874a53.js.map",
+    "static/js/2.cf46417f.chunk.js": "/Atoms-React/static/js/2.cf46417f.chunk.js",
+    "static/js/2.cf46417f.chunk.js.map": "/Atoms-React/static/js/2.cf46417f.chunk.js.map",
+    "index.html": "/Atoms-React/index.html",
+    "precache-manifest.cfa0ef3028b0b1607fd6357da68d6c6b.js": "/Atoms-React/precache-manifest.cfa0ef3028b0b1607fd6357da68d6c6b.js",
+    "service-worker.js": "/Atoms-React/service-worker.js",
+    "static/css/main.b0ac7a66.chunk.css.map": "/Atoms-React/static/css/main.b0ac7a66.chunk.css.map",
+    "static/js/2.cf46417f.chunk.js.LICENSE.txt": "/Atoms-React/static/js/2.cf46417f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Atoms-React/static/media/red-9.af039dea.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12874a53.js",
+    "static/js/2.cf46417f.chunk.js",
+    "static/css/main.b0ac7a66.chunk.css",
+    "static/js/main.56ee3ae6.chunk.js"
+  ]
+}
